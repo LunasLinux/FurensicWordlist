@@ -1,5 +1,8 @@
 # Guild Hitlist
 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 This is a **community-maintained text file** of Discord guild (server) IDs that have been flagged for moderation purposes. The intent is to provide a centralized, transparent way to manage suspicious or policy-violating servers in tandem with bot moderation tools.
 
 ## 🧾 File Format
